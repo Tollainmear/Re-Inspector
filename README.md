@@ -1,4 +1,4 @@
-# Inspector-improved
-was designed by HassanS6000!
+# Re-Inspector
+Inspector was designed by HassanS6000!
 
-customized by Tollainmear to make it light weight.
+Re-Inspector was customized by Tollainmear to make it light weight.
